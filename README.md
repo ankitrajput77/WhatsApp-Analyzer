@@ -41,7 +41,13 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+# In-Action
 
 
 
+# Contributing
+Any kind of enhancement or contribution is welcomed.
+
+## Contact
+If you have any questions, feedback, or suggestions, feel free to reach out to us at [rajputankit72106@gmail.com](mailto:rajputankit72106@gmail.com).
 
