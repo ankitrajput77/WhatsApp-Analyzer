@@ -78,9 +78,9 @@ if uploaded_file is not None:
                 sns.set_palette("dark")
                 df_cpy = df[df['User'] != 'Notification']
                 user_counts = df_cpy['User'].value_counts()
-                x = user_counts.index.tolist()
+                x = user_counts.index.tolist()[:10]
                 most_busy = x[0]
-                y = user_counts.tolist()
+                y = user_counts.tolist()[:10]
                 plot = sns.barplot(x=x, y=y)
                 plt.xlabel('User')
                 plt.ylabel('Count')
