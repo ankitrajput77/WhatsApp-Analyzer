@@ -109,10 +109,10 @@ def total_days(df):
 
 def total_links(selected_user, df):
     if selected_user == 'All Users':
-        return (len(df[df['Message'] == '<Media omitted>\n']) + len(df[df['Message'] == '<Media omitted>']))
+        return len(df[df['Message'] == '<Media omitted>\n'])
     else :
         df_copy = df[df['User'] == selected_user]
-        return (len(df_copy[df_copy['Message'] == '<Media omitted>\n']) + len(df[df['Message'] == '<Media omitted>']))
+        return len(df_copy[df_copy['Message'] == '<Media omitted>\n'])
 
 
 
