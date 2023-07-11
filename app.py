@@ -79,6 +79,7 @@ if uploaded_file is not None:
 
                 user_counts = df['User'].value_counts()
                 x = user_counts.index.tolist()
+                x.remove('Notification')
                 most_busy = x[0]
                 y = user_counts.tolist()
                 plot = sns.barplot(x=x, y=y)
