@@ -93,21 +93,22 @@ if uploaded_file is not None:
             st.title('Time Of The Day')
 
             # Time bar plot 
-            if selected_user == 'All Users': 
-                    hour_user_counts = df.groupby(['hour', 'User']).size().reset_index(name='MessageCount')
-                    # Pivot the data to create a wide-form DataFrame
-                    pivot_df = hour_user_counts.pivot(index='hour', columns='User', values='MessageCount')
-                    # Create the grouped bar plot
-                    plt.figure(figsize=(15,10))
-                    sns.set_style('white')
-                    sns.set_palette("dark")  # Set the color palette
-                    plot = pivot_df.plot(kind='bar', stacked=True)
-                    plt.xlabel('Hour')
-                    plt.ylabel('Number of Messages')
-                    plot.set_facecolor('black')
-                    plt.legend(title='User')
-                    st.pyplot(plot.figure)
-                    st.success("**This is the bar graph where you can see how many messages are contributed by each User in each Hour.**")
+            if selected_user == 'All Users':
+                hour_user_counts = df.groupby(['hour', 'User']).size().reset_index(name='MessageCount')
+                # Pivot the data to create a wide-form DataFrame
+                pivot_df = hour_user_counts.pivot(index='hour', columns='User', values='MessageCount')
+                # Create the grouped bar plot
+                plt.figure(figsize=(15, 10))
+                sns.set_style('white')
+                sns.set_palette("dark")  # Set the color palette
+                plot = pivot_df.plot(kind='bar', stacked=True)
+                plt.xlabel('Hour')
+                plt.ylabel('Number of Messages')
+                plot.set_facecolor('black')
+                plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0.)
+
+                st.pyplot(plot.figure)
+                st.success("**This is the bar graph where you can see how many messages are contributed by each User in each Hour.**")
             else :
                 df_copy = df[df['User'] == selected_user]
                 plt.figure(figsize=(15, 10))  # Set the figure size
