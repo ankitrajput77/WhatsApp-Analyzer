@@ -76,10 +76,9 @@ if uploaded_file is not None:
                 plt.figure(figsize=(15, 10))
                 sns.set_style("darkgrid")
                 sns.set_palette("dark")
-
-                user_counts = df['User'].value_counts()
+                df_cpy = df[df['User'] != 'Notification']
+                user_counts = df_cpy['User'].value_counts()
                 x = user_counts.index.tolist()
-                x.remove('Notification')
                 most_busy = x[0]
                 y = user_counts.tolist()
                 plot = sns.barplot(x=x, y=y)
