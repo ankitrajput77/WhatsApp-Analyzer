@@ -24,6 +24,7 @@ if st.sidebar.button('How to use'):
     c3.image("static/Images/Picsart_23-07-30_22-05-25-649.jpg")
     c4.markdown("step 4 :- Select option 'without media'.")
     c4.image("static/Images/Picsart_23-07-30_22-05-55-137.jpg")
+    st.markdown("After downloading your chat as txt file, browse it using browse files button in sidebar and use this project.")
 
 
 
