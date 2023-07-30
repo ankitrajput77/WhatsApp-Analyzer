@@ -1,0 +1,351 @@
+24/04/2023, 9:29 am - Messages to yourself are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+24/04/2023, 9:29 am - Ankit Rajput: ..
+24/04/2023, 9:30 am - Ankit Rajput: <Media omitted>
+25/04/2023, 9:10 pm - Ankit Rajput: <Media omitted>
+26/04/2023, 5:47 pm - Ankit Rajput: <Media omitted>
+26/04/2023, 7:44 pm - Ankit Rajput: https://www.chegg.com/homework-help/questions-and-answers/b-solve-ibvp-pde-u-uz-0-q85275528
+26/04/2023, 7:44 pm - Ankit Rajput: answer 5
+26/04/2023, 7:44 pm - Ankit Rajput: https://www.chegg.com/homework-help/questions-and-answers/metal-bar-100-cm-long-s-ends-x-0-x-100-kept-0-degree-c-initially-right-half-bar-0-degree-c-q23662430
+26/04/2023, 7:45 pm - Ankit Rajput: answer 4
+30/04/2023, 3:10 pm - Ankit Rajput: <Media omitted>
+30/04/2023, 3:11 pm - Ankit Rajput: <Media omitted>
+03/05/2023, 12:31 pm - Ankit Rajput: <Media omitted>
+03/05/2023, 12:31 pm - Ankit Rajput: <Media omitted>
+03/05/2023, 12:31 pm - Ankit Rajput: <Media omitted>
+03/05/2023, 12:31 pm - Ankit Rajput: <Media omitted>
+03/05/2023, 12:32 pm - Ankit Rajput: <Media omitted>
+03/05/2023, 12:32 pm - Ankit Rajput: <Media omitted>
+03/05/2023, 12:32 pm - Ankit Rajput: <Media omitted>
+03/05/2023, 12:33 pm - Ankit Rajput: <Media omitted>
+03/05/2023, 12:35 pm - Ankit Rajput: <Media omitted>
+03/05/2023, 12:35 pm - Ankit Rajput: <Media omitted>
+08/05/2023, 8:13 am - Ankit Rajput: <Media omitted>
+18/05/2023, 3:51 pm - Ankit Rajput: .
+19/05/2023, 2:25 pm - Ankit Rajput: ..
+19/05/2023, 2:25 pm - Ankit Rajput: Vbh
+19/05/2023, 3:04 pm - Ankit Rajput: G
+19/05/2023, 7:23 pm - Ankit Rajput: <Media omitted>
+20/05/2023, 3:48 pm - Ankit Rajput: https://www.google.com/search?q=K+A+random+sample+of+size+64+is+taken+from+a+normal+population+having+a+mean+of+65+and+a+standard+deviation+of+3.+A+second+random+sample+of+size+25+is+taken+from+a+different+normal+population+having+a+mean+of+60+and+a+standard+deviation+of+4.+Find+the+probability+that+the+sample+mean+computed+from+the+64+measurements+will+exceed+the+sample+mean+computed+from+the+25+measurements+by+at+least+3.9+but+less+than+5.6.+Assume+the+difference+of+the+means+to+be+measured+to+the+nearest+tenth.+Click+here+to+view+page+1+of+the+standard+normal+distribution+table.+Click+here+to+view+page+2+of+the+standard+normal+distribution+table.+The+probability+is+(Round+to+four+decimal+places+as+needed.)&client=avast-a-2&sxsrf=APwXEdcB78XHF7h2kMN9p0NcJxS5W3kifw:1684576637108&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj31rSA0YP_AhViV2wGHcn0CuIQ_AUoAXoECAEQAw&biw=1280&bih=569&dpr=1.5#imgrc=efRGh4eF0tlrLM
+20/05/2023, 3:48 pm - Ankit Rajput: fg
+22/05/2023, 10:47 pm - Ankit Rajput: ijdf
+27/05/2023, 4:18 pm - Ankit Rajput: http://127.0.0.1:5000/about
+28/05/2023, 12:11 am - Ankit Rajput: From part - A we can write
+
+d/dt (s) = - 39200 + 39282e ^ (- 0.00025t)
+
+Rightarrow ds = (- 39200 + 39282e ^ (- 0.00025t)) * dl
+
+f * ds = integrate (- 39200 + 39282e ^ (- 0.00025t)) dt dt
+
+> s = - 39200t - 39282/0.00025 * e ^ (- 0.00025t) + C_{1}
+
+By initial condition, s = 0 when t=0
+
+C_{1} = 39282/0.00025 = 157128000
+
+Sos = 157128000 - 39200t - 157128000e ^ (- 0.00025t)
+
+So height of the cannon ball is
+
+s(t) = 157128000(1 - e ^ (- 0.00025t)) - 39200t
+28/05/2023, 12:17 am - Ankit Rajput: (C)
+
+For maximum height, d/dt (s) = v = 0
+
+Rightarrow - 39200 + 39282e ^ (- 0.00025t) = 0
+
+Rightarrow e ^ (- 0.00025t) = 39200/39282
+
+Rightarrow - 0.00025t = ln(39200/39282) Rightarrow - 0.00025t = - 0.00208965189
+
+Rightarrow t = 0.00208965189/0.00025 = 8.35860756
+
+Putting this value of t in s(t) we get maximum height.
+
+So maximum height is
+
+157128000(1 - e ^ (- 0.00025 * 8.35860756)) -39200^ * 8.35860756
+
+=328000-327657.416
+
+= 342.584
+
+So maximum height is 342.584 m
+28/05/2023, 4:05 pm - Ankit Rajput: https://green-chef-iocgc.pwskills.app/
+03/06/2023, 7:05 pm - Ankit Rajput: <!DOCTYPE html>
+<html>
+<head>
+    <title>Print Images in Columns</title>
+    <style>
+        .image-container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        .image-container img {
+            width: 33%;
+            padding: 5px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <h1>Images in Columns</h1>
+    
+    <div class="image-container">
+        {% for picture in Images %}
+        <img src="picture" alt="Image 1">
+        {% endfor %}
+        <!-- Add more <img> tags as needed -->
+    </div>
+</body>
+</html>
+03/06/2023, 7:05 pm - Ankit Rajput: <!DOCTYPE html>
+<html>
+<head>
+    <title>Images</title>
+</head>
+<body style = "display: grid; grid-template coloum:repeat {4,1fr}>
+    <div class="container-fluid m-4">
+        <div class="row">
+            {% for picture in Images %}
+            <div class="col">
+                <div class="card" style="width: 18rem;">
+                    <img src="{{picture}}" class="card-img-top" height="200px" width="150px">
+                    <div class="card-body">
+                      <a href="{{picture}}" download="image" class="btn btn-primary">Save</a>
+                    </div>
+                  </div>
+            </div>
+            {% endfor %}
+        </div>
+
+    </div>
+</body>
+</html>
+05/06/2023, 8:21 am - Ankit Rajput: Amy invests 1000 at an effective annual rate of 14% for 10 years. Interest is payable annually and is reinvested at an annual effective rate of i. At the end of 10 years the accumulated interest is 2,341.08.
+
+Bob invests 150 at the end of each year for 20 years at an annual effective rate of 15%. Interest is payable annually and is reinvested at an annual effective rate of i.
+
+Find Bob's accumulated interest at the end of 20 years.
+
+A) 9000
+
+B) 9010
+
+C) 9020
+
+D) 9030
+
+E) 9040
+05/06/2023, 9:20 am - Ankit Rajput: <Media omitted>
+05/06/2023, 2:08 pm - Ankit Rajput: A contract valued at $47,500.00 requires payments of $6951.00 every six months. The first payment is due in four years and interest is 6.6% compounded semi-annually.
+
+ay How many payments are required? b) What is the size of the last payment?
+
+c) How much will be paid in total?
+
+d) How much of what is paid is interest
+05/06/2023, 4:42 pm - Ankit Rajput: <Media omitted>
+05/06/2023, 4:43 pm - Ankit Rajput: <Media omitted>
+05/06/2023, 4:43 pm - Ankit Rajput: To find the minimum value of f(x, y) we will use the second derivative test.
+
+Second derivatives test:
+
+If the second partial derivatives of ƒ are continuous on a disk containing the critical point (a, b) and
+
+D(a, b) =f xx (a,b)f yy (a,b)-[f xy (a,b)]^ 2
+
+Then we can conclude that:
+
+(1) D > 0 and f xx (a,b)>0 a local minimum
+
+(2) D > 0 and f xx (a,b)<0 Rightarrow a local maximum
+
+(3) D <0 Rightarrow no local maximum/minimum
+
+We can find the local extrema using the Second Derivatives Test from the section. Note that
+
+f(x, y) = (x - 4) ^ 2 + (y - 2) ^ 2 + x ^ 2 + y ^ 2
+
+is a polynomial function (in 2 variables) and hence is continuous everywhere
+06/06/2023, 12:04 am - Ankit Rajput: https://brainly.com/question/3376338
+06/06/2023, 12:04 am - Ankit Rajput: fgh
+06/06/2023, 1:29 am - Ankit Rajput: https://brainly.com/question/12706953
+07/06/2023, 9:00 pm - Ankit Rajput: A random sample of size 20 is selected from a population. What is the probability that all of the samples lie below the population median
+08/06/2023, 9:21 am - Ankit Rajput: https://brainly.com/question/24892173
+08/06/2023, 12:38 pm - Ankit Rajput: <Media omitted>
+09/06/2023, 11:11 pm - Ankit Rajput: Consider the function f(x)=(X-3)/(√(1+x²))
+in the interval [-5, 5].
+After constructing a third order polynomial P_3(x)
+
+which corresponds the approximation of f(x) by taking 12 equidistant points in [-5, 5], find the value of the error between the approximate polynomial P_3(x) and f(x) at x=97.3 by using MATLAB.
+10/06/2023, 12:20 am - Ankit Rajput: https://brainly.in/question/8195095
+10/06/2023, 9:20 am - Ankit Rajput: .
+11/06/2023, 8:12 pm - Ankit Rajput: • There are 4 kings , the number of ways to draw 2 kings is :
+
+• 4C2 = 4!/(2! × 2! ) = 6
+
+• the number of ways to draw 2 cards from a pack of 52 cards is
+
+• 52C2 = 52! / (50 ! ×2 ! )= 26 ×51 = 1326
+
+• So probability of drawing two king is
+
+= (6/1326)
+
+=1/221
+12/06/2023, 3:15 am - Ankit Rajput: https://brainly.com/question/13416636
+12/06/2023, 12:44 pm - Ankit Rajput: https://clipchamp.com/watch/A5HkXCpbkOh
+12/06/2023, 12:53 pm - Ankit Rajput: https://www.dropbox.com/s/lnxjax1p88hb12k/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4?dl=0
+12/06/2023, 12:54 pm - Ankit Rajput: https://www.dropbox.com/s/rxykpfl5cyiduky/inaction_video_grocery_store_webApp.mp4?dl=0
+12/06/2023, 12:56 pm - Ankit Rajput: <Media omitted>
+12/06/2023, 1:12 pm - Ankit Rajput: <Media omitted>
+15/06/2023, 10:43 pm - Ankit Rajput: <Media omitted>
+16/06/2023, 10:27 am - Ankit Rajput: Fif
+16/06/2023, 10:27 am - Ankit Rajput: f
+17/06/2023, 12:59 am - Ankit Rajput: A post office has a single line for customers waiting for the next available postal clerk. There are two postal clerks who work at the same rate. The arrival rate of customers follows a Poisson distribution, while the service time follows an exponential distribution. The average arrival rate is three per minute and the average service rate is two per minute for each of the two clerks. What proportion of time are both clerks idle?
+19/06/2023, 11:38 pm - Ankit Rajput: Max Z = 3x_{1} + 2x_{2} + x_{3}
+
+subject to
+
+2x_{1} + x_{2} + 3x_{3} <= 52
+
+x_{1} + x_{2} + 2x_{3} >= 24
+
+2x_{2} + x_{3} <= 52
+
+and x_{1}, x_{2}, x_{3} >= 0
+19/06/2023, 11:40 pm - Ankit Rajput: After introducing slack,surplus,artificial variables
+
+Max Z = 3x_{1} + 2x_{2} + x_{3} + 0S_{1} + 0S_{2} + 0S_{3} - M*A_{1} subject to
+
+2x_{1} + x_{2} + 3x_{3} + S_{1} = 52 x_{1} + x_{2} + 2x_{3} - S_{2} + A_{1} = 24 2x_{2} + x_{3} + S3 = 52
+
+and x_{1}, x_{2}, x_{3}, S_{1}, S_{2}, S_{3}, A_{1} >= 0
+19/06/2023, 11:40 pm - Ankit Rajput: Negative minimum Z_{j} - C_{j} is - 2M - 1 and its column index is 3. So, the entering variable is x_{3}
+
+Minimum ratio is 12 and its row index is 2. So, the leaving basis variable is A_{1}
+
+The pivot element is 2.
+
+Entering
+
+= x_{3} , Departing
+
+-4, Key Element -2
+
++ R_{2}(new) = R_{2}(old) / 2
+
+R_{3}(new) = R_{1}(old) - 3R_{2}(new)
+
+- R_{3} * (new) - R_{3}(old) - R_{2}(new)
+19/06/2023, 11:41 pm - Ankit Rajput: Negative minimum Z_{j} - C_{j} is -2.5 and its column index is 1. So, the entering variable is
+
+Minimum ratio is 24 and its row index is 2. Sothe leaving basis variable S*x_{3}
+
+The pivot element is 0.5.
+
+Entering = x_{1} Departing = x_{3} Key Element = 0.5
+
++ R_{2}(new) - R_{2}(old) + 0.5
+
++ R_{1}(new) - R_{1}(old) - 0.5R_{2}(new)
+
++ R_{3}(new) - R_{3}(old) + 0.5R_{2}(new)
+19/06/2023, 11:41 pm - Ankit Rajput: Negative minimum Z_{j} - C_{j} is -3 and its column index is 5Sothe entering variable is S 2^ -
+
+Minimum ratio is 2 and its row index is ISo, the leaving basis variable is S_{1}
+
+...The pivot element is 2.
+
+Entering = S., Departing = SKey Element 2
+
+R_{1}(new) = R_{1}(old) / 2
+
++ R_{7}(new) - R_{2}(old) + R_{1}(new)
+
++ R_{3}(new) - R_{3}(old)
+19/06/2023, 11:42 pm - Ankit Rajput: Negative minimum Z_{j} - C_{j} is -0.5 and its column index is 2Sothe entering variable is x 2^ -
+
+Minimum ratio is 26 and its row index is 3Sothe leaving basis variable is S_{3}
+
+The pivot element is 2.
+
+Entering -x 2 ^ n Departing SKey Element - 2
+
+1.5
+
+0
+
+0
+
+0
+
+NX
+
+10
+
+F10
+
++ R_{3}(new) - R_{3}(old) / 2
+
++ R_{1}(new) = R_{1}(old) + 0.5R_{3}(new)
+20/06/2023, 6:26 pm - Ankit Rajput: <Media omitted>
+25/06/2023, 1:07 am - Ankit Rajput: https://brainly.com/question/22595449
+25/06/2023, 2:03 am - Ankit Rajput: The moving average uses the average of k recent data observations as shown below:
+
+ΣYi+ Yi-1+t (1)
+
+F = ΣΥ+
+
+k
+
+where Ft+1 is the forecast, Yt is the actual time series value at period t, and k is the number of most recent values.
+25/06/2023, 2:03 am - Ankit Rajput: The MSE is the average of the sum of squared forecast errors. As such, we can have its general formula as shown below:
+
+MSE
+
+(Y-F)2
+
+m
+
+(2)
+
+where Yt is the time series value at period t, Ft is the forecast for period t, and m is the number of forecast values in the series
+25/06/2023, 10:01 am - Ankit Rajput: ..
+25/06/2023, 12:46 pm - Ankit Rajput: https://brainly.com/question/13658863
+26/06/2023, 5:02 pm - Ankit Rajput: https://brainly.com/question/13851910
+28/06/2023, 1:57 pm - Ankit Rajput: https://brainly.com/question/31911282
+30/06/2023, 7:01 pm - Ankit Rajput: https://drive.google.com/drive/folders/1BgStQv7xHAaqKOEVJLz-Mby8Qt3yJIE3
+30/06/2023, 7:01 pm - Ankit Rajput: https://drive.google.com/drive/folders/1i23pelTxN412rREHdaih_pzwnHEqiTXj
+30/06/2023, 7:24 pm - Ankit Rajput: <Media omitted>
+02/07/2023, 1:03 pm - Ankit Rajput: <Media omitted>
+06/07/2023, 4:52 am - Ankit Rajput: Gh
+06/07/2023, 4:15 pm - Ankit Rajput: Connecting the dots through elegant lines of code
+08/07/2023, 1:11 am - Ankit Rajput: j
+09/07/2023, 9:41 am - Ankit Rajput: <Media omitted>
+09/07/2023, 9:41 am - Ankit Rajput: <Media omitted>
+09/07/2023, 9:42 am - Ankit Rajput: <Media omitted>
+10/07/2023, 11:27 am - Ankit Rajput: <Media omitted>
+11/07/2023, 9:56 am - Ankit Rajput: <Media omitted>
+11/07/2023, 9:57 am - Ankit Rajput: Fkfj
+11/07/2023, 4:49 pm - Ankit Rajput: Cf
+11/07/2023, 8:14 pm - Ankit Rajput: <Media omitted>
+11/07/2023, 8:18 pm - Ankit Rajput: <Media omitted>
+12/07/2023, 12:08 pm - Ankit Rajput: <Media omitted>
+12/07/2023, 12:16 pm - Ankit Rajput: <Media omitted>
+12/07/2023, 12:17 pm - Ankit Rajput: <Media omitted>
+12/07/2023, 12:20 pm - Ankit Rajput: <Media omitted>
+12/07/2023, 1:37 pm - Ankit Rajput: <Media omitted>
+12/07/2023, 1:38 pm - Ankit Rajput: <Media omitted>
+12/07/2023, 2:21 pm - Ankit Rajput: <Media omitted>
+13/07/2023, 10:53 am - Ankit Rajput: https://www.linkedin.com/in/ankit-rajput892/
+18/07/2023, 11:11 pm - Ankit Rajput: <Media omitted>
+21/07/2023, 8:17 pm - Ankit Rajput: .
+21/07/2023, 9:04 pm - Ankit Rajput: .
+27/07/2023, 9:34 am - Ankit Rajput: <Media omitted>
+27/07/2023, 9:34 am - Ankit Rajput: h
+27/07/2023, 6:16 pm - Ankit Rajput: h
+28/07/2023, 12:27 am - Ankit Rajput: .
+29/07/2023, 6:57 pm - Ankit Rajput: <Media omitted>

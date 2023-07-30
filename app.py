@@ -13,6 +13,20 @@ st.sidebar.title('Whatsapp Chat Analyzer')
 if st.sidebar.button('About Creator'):
     utils.about_me()
 
+if st.sidebar.button('How to use'):
+    st.title('Steps to use this project')
+    c1, c2, c3, c4 = st.columns([1,1,1,1])
+    c1.markdown("step 1 :- Go to whatsapp chat and click on top right three dot button.")
+    c1.image('static/Images/1.jpg')
+    c2.markdown("step 2:- Click on the more option.")
+    c2.image("static/Images/Picsart_23-07-30_22-06-51-458.jpg")
+    c3.markdown("step 3 :- Click on Export chat option.")
+    c3.image("static/Images/Picsart_23-07-30_22-05-25-649.jpg")
+    c4.markdown("step 4 :- Select option 'without media'.")
+    c4.image("static/Images/Picsart_23-07-30_22-05-55-137.jpg")
+
+
+
 # file uploader 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
@@ -93,21 +107,23 @@ if uploaded_file is not None:
             st.title('Time Of The Day')
 
             # Time bar plot 
-            if selected_user == 'All Users': 
+            if selected_user == 'All Users':
                 hour_user_counts = df.groupby(['hour', 'User']).size().reset_index(name='MessageCount')
                 # Pivot the data to create a wide-form DataFrame
                 pivot_df = hour_user_counts.pivot(index='hour', columns='User', values='MessageCount')
                 # Create the grouped bar plot
-                plt.figure(figsize=(15,10))
+                plt.figure(figsize=(15, 10))
                 sns.set_style('white')
                 sns.set_palette("dark")  # Set the color palette
                 plot = pivot_df.plot(kind='bar', stacked=True)
                 plt.xlabel('Hour')
                 plt.ylabel('Number of Messages')
                 plot.set_facecolor('black')
-                plt.legend(title='User')
+                plt.legend(bbox_to_anchor=(1.02, 1), loc='upper left', borderaxespad=0.)
+
                 st.pyplot(plot.figure)
                 st.success("**This is the bar graph where you can see how many messages are contributed by each User in each Hour.**")
+
             else :
                 df_copy = df[df['User'] == selected_user]
                 plt.figure(figsize=(15, 10))  # Set the figure size
