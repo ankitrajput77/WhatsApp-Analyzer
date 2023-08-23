@@ -13,7 +13,7 @@ st.sidebar.title('Whatsapp Chat Analyzer')
 if st.sidebar.button('About Creator'):
     utils.about_me()
 
-if st.sidebar.button('Sentiment Analysis')
+if st.sidebar.button('Sentiment Analysis'):
     st.text('Work is in process')
 
 if st.sidebar.button('How to use'):
