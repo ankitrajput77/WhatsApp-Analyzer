@@ -14,7 +14,7 @@ if st.sidebar.button('About Creator'):
     utils.about_me()
 
 if st.sidebar.button('Sentiment Analysis'):
-    st.text('Work is in process')
+    st.text('Wait')
 
 if st.sidebar.button('How to use'):
     st.title('Steps to use this project')
