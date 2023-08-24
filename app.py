@@ -13,6 +13,9 @@ st.sidebar.title('Whatsapp Chat Analyzer')
 if st.sidebar.button('About Creator'):
     utils.about_me()
 
+if st.sidebar.button('Sentiment Analysis'):
+    st.text('Wait')
+
 if st.sidebar.button('How to use'):
     st.title('Steps to use this project')
     c1, c2, c3, c4 = st.columns([1,1,1,1])
@@ -24,6 +27,7 @@ if st.sidebar.button('How to use'):
     c3.image("static/Images/Picsart_23-07-30_22-05-25-649.jpg")
     c4.markdown("step 4 :- Select option 'without media'.")
     c4.image("static/Images/Picsart_23-07-30_22-05-55-137.jpg")
+    st.markdown("After downloading your chat as txt file, browse it using browse files button in sidebar and use this project.")
 
 
 
