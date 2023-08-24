@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 import emoji
-import sentiment_analysis.preprocessing
-from tensorflow import keras
 
 # Title of the project
 st.sidebar.title('Whatsapp Chat Analyzer')
