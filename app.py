@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 import emoji
+import sentiment_analysis.preprocessing
+from tensorflow import keras
 
 # Title of the project
 st.sidebar.title('Whatsapp Chat Analyzer')
@@ -13,8 +15,6 @@ st.sidebar.title('Whatsapp Chat Analyzer')
 if st.sidebar.button('About Creator'):
     utils.about_me()
 
-if st.sidebar.button('Sentiment Analysis'):
-    st.text('Wait')
 
 if st.sidebar.button('How to use'):
     st.title('Steps to use this project')
@@ -34,11 +34,15 @@ if st.sidebar.button('How to use'):
 # file uploader 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
-        
+            
         bytes_data = uploaded_file.getvalue()
         data = bytes_data.decode('utf-8')
         df = data_ingestion.preprocessor(data)
 
+        #if st.sidebar.button('Sentiment Analysis'):
+        #    x, y = preprocessing.preprocessor(df)
+        #    model = keras.models.load_model('./sentiment_analysis/artifacts/my_model.h5')
+        #    model.predict
 
         # fetching unique user names
         users = df['User'].unique().tolist()
@@ -188,6 +192,7 @@ if uploaded_file is not None:
                 i = top_emojis.index.tolist()[:5]
                 top_emo = f"Top Emojis are : {i}"
                 st.error(top_emo)
+
 
 
          
